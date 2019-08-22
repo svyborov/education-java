@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="mygrep">
+    <output-path>$PROJECT_DIR$/out/artifacts/mygrep</output-path>
+    <root id="archive" name="mygrep.jar">
+      <element id="module-output" name="Bank" />
+    </root>
+  </artifact>
+</component>
